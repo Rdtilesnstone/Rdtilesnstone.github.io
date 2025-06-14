@@ -40,7 +40,7 @@
       border-radius: 5px;
     }
     .hero {
-      background: url('https://via.placeholder.com/1600x500') no-repeat center center/cover;
+      background: url('https://images.unsplash.com/photo-1582582423364-4a69f1c1d70f?ixlib=rb-4.0.3&auto=format&fit=crop&w=1600&q=80') no-repeat center center/cover;
       height: 400px;
       display: flex;
       align-items: center;
@@ -115,7 +115,7 @@
 <body>
 
 <header>
-  <img src="/mnt/data/c89e5476-c8fe-496b-aeb7-29d498ffd205.png" alt="RD Tile & Stone">
+  <img src="https://i.imgur.com/ZBTywR7.png" alt="RD Tile & Stone">
 </header>
 
 <nav>
@@ -134,27 +134,27 @@
   <h2>Our Products</h2>
   <div class="products">
     <div>
-      <img src="https://via.placeholder.com/300x200" alt="Porcelain Tile">
+      <img src="https://images.unsplash.com/photo-1586500711358-5937a82d5d66?ixlib=rb-4.0.3&auto=format&fit=crop&w=600&q=80" alt="Porcelain Tile">
       <h3>Porcelain Tile</h3>
     </div>
     <div>
-      <img src="https://via.placeholder.com/300x200" alt="Vinyl Flooring">
+      <img src="https://images.unsplash.com/photo-1631018780813-6090a63e3aa3?ixlib=rb-4.0.3&auto=format&fit=crop&w=600&q=80" alt="Vinyl Flooring">
       <h3>Vinyl Flooring</h3>
     </div>
     <div>
-      <img src="https://via.placeholder.com/300x200" alt="Mosaics">
+      <img src="https://images.unsplash.com/photo-1632404891548-0ab9e6f69077?ixlib=rb-4.0.3&auto=format&fit=crop&w=600&q=80" alt="Mosaics">
       <h3>Mosaics</h3>
     </div>
     <div>
-      <img src="https://via.placeholder.com/300x200" alt="Granite & Quartz">
+      <img src="https://images.unsplash.com/photo-1584452964155-06b9f014eb69?ixlib=rb-4.0.3&auto=format&fit=crop&w=600&q=80" alt="Granite & Quartz">
       <h3>Granite & Quartz</h3>
     </div>
     <div>
-      <img src="https://via.placeholder.com/300x200" alt="Wall Panels">
+      <img src="https://images.unsplash.com/photo-1599579473357-40a1b1c72d27?ixlib=rb-4.0.3&auto=format&fit=crop&w=600&q=80" alt="Wall Panels">
       <h3>Wall Panels</h3>
     </div>
     <div>
-      <img src="https://via.placeholder.com/300x200" alt="Blinds & Accessories">
+      <img src="https://images.unsplash.com/photo-1582719478250-d5335b8f1e7e?ixlib=rb-4.0.3&auto=format&fit=crop&w=600&q=80" alt="Blinds & Accessories">
       <h3>Blinds & Accessories</h3>
     </div>
   </div>
@@ -163,10 +163,10 @@
 <section id="gallery">
   <h2>Project Gallery</h2>
   <div class="gallery">
-    <div><img src="https://via.placeholder.com/400x300" alt="Project 1"></div>
-    <div><img src="https://via.placeholder.com/400x300" alt="Project 2"></div>
-    <div><img src="https://via.placeholder.com/400x300" alt="Project 3"></div>
-    <div><img src="https://via.placeholder.com/400x300" alt="Project 4"></div>
+    <div><img src="https://images.unsplash.com/photo-1594574896908-47ca309383a3?ixlib=rb-4.0.3&auto=format&fit=crop&w=600&q=80" alt="Project 1"></div>
+    <div><img src="https://images.unsplash.com/photo-1594574897708-040d1d39d74c?ixlib=rb-4.0.3&auto=format&fit=crop&w=600&q=80" alt="Project 2"></div>
+    <div><img src="https://images.unsplash.com/photo-1594574896634-df17d8dffb8d?ixlib=rb-4.0.3&auto=format&fit=crop&w=600&q=80" alt="Project 3"></div>
+    <div><img src="https://images.unsplash.com/photo-1594574897377-b67101f8c854?ixlib=rb-4.0.3&auto=format&fit=crop&w=600&q=80" alt="Project 4"></div>
   </div>
 </section>
 
